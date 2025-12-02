@@ -5,7 +5,7 @@
   "description": "Provides control over advertising auctions to Publishers, while making it fair and transparent.",
   "unity": "2020.1",
   "documentationUrl": "https://docs.bidon.org/docs/level-play/sdk-integration",
-  "changelogUrl": "https://github.com/bidon-io/levelplay_bidon_custom_adapter_unity/blob/main/CHANGELOG.md",
+  "changelogUrl": "https://github.com/bidon-io/levelplay-bidon-custom-adapter-unity/blob/main/CHANGELOG.md",
   "keywords": [
     "Bidon",
     "Postbid",

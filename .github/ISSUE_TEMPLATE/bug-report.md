@@ -8,7 +8,7 @@ assignees: DmitriiFeshchenko
 ---
 
 ## Step 0: Is this a new bug?
-Make sure to check our [issues](https://github.com/bidon-io/levelplay_bidon_custom_adapter_unity/issues)
+Make sure to check our [issues](https://github.com/bidon-io/levelplay-bidon-custom-adapter-unity/issues)
 page before submitting your bug report.
 
 *Please delete this section when posting a bug report.*
