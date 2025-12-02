@@ -3,7 +3,7 @@
   "version": "0.8.0",
   "displayName": "LevelPlay Bidon Custom Adapter",
   "description": "Provides control over advertising auctions to Publishers, while making it fair and transparent.",
-  "unity": "2020.1",
+  "unity": "2021.3",
   "documentationUrl": "https://docs.bidon.org/docs/level-play/sdk-integration",
   "changelogUrl": "https://github.com/bidon-io/levelplay-bidon-custom-adapter-unity/blob/main/CHANGELOG.md",
   "keywords": [
